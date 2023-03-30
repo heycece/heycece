@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚧 CURRENTLY UNDER CONSTRUCTION 🚧
+🚧 currently under construction 🚧
 
 - 🌱 I’m currently learning `Project Libre` `IT Project Management` `
-- 👯 I’m looking to collaborate on `Spotipy projects` `
+- 👯 I’m looking to collaborate on `Spotipy projects` 
 - 😄 Pronouns: she/her
 
 
-🫶 
+🫶 Thanks for dropping by!
