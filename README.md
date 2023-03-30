@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚧 CURRENTLY UNDER CONSTRUCTION 🚧
+
+- 🌱 I’m currently learning `Project Libre` `IT Project Management` `
+- 👯 I’m looking to collaborate on `Spotipy projects` `
+- 😄 Pronouns: she/her
+
+
+🫶 
