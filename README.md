@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kamusta! 👋
 
 <!--
 **heycece/heycece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚧 currently under construction 🚧
+I'm Carina from the Philippines 🇵🇭 but currently based in Sydney 🇦🇺
 
-- 🌱 I’m currently learning `Project Libre` `IT Project Management` `
+- 🌱 I’m currently learning:
+  - `Project Libre` `IT Project Management` as part of my uni coursework and
+  - `ASL` on the side 🦻
 - 👯 I’m looking to collaborate on `Spotipy projects` 
-- 😄 Pronouns: she/her
+- 👩🏻‍💻 Pronouns: she/her
 
+When I'm not working, studying, and taking care of my family - I'm either playing Genshin or baking brownies 😋
 
 🫶 Thanks for dropping by!
