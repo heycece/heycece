@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Carina from the Philippines 🇵🇭 but currently based in Sydney 🇦🇺
+I'm Carina from the Philippines 🇵🇭 and currently based in Sydney 🇦🇺
 
 - 🌱 I’m currently learning:
   - `Project Libre` `IT Project Management` as part of my uni coursework and
