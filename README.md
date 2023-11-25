@@ -17,11 +17,20 @@ Here are some ideas to get you started:
 
 I'm Carina from the Philippines 🇵🇭 and currently based in Sydney 🇦🇺
 
+- 🛠 Software I've used and currently using:
+  - `STATA` for my undergraduate research on `Private vs Public Healthcare Preference for Filipinos` and `Exploratory Data Analysis on Own Loan Service In-App`
+  - `R`
+  - `Python`
+  - `SQL`
+  - `LaTeX` for research papers
+  - `Project Libre` for `IT Project Management`
 - 🌱 I’m currently learning:
-  - `Project Libre` `IT Project Management` as part of my uni coursework and
-  - `ASL` on the side 🦻
-- 👯 I’m looking to collaborate on `Spotipy projects` 
+  - `UX Design` as a refresher and
+  - `Auslan` / `ASL` on the side 🦻
+- 👯 I’m looking to collaborate on `Spotipy projects` `forecasting models` 
 - 👩🏻‍💻 Pronouns: she/her
+
+As a data scientist, I'm interested in specializing on machine learning models geared towards forecasting, image recognition, and recommender systems.
 
 When I'm not working, studying, and taking care of my family - I'm either playing Genshin or baking brownies 😋
 
