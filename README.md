@@ -19,7 +19,9 @@ I'm Carina from the Philippines 🇵🇭 and currently based in Sydney 🇦🇺
 
 - 🛠 Software I've used and currently using:
   - `STATA` for my undergraduate research on `Private vs Public Healthcare Preference for Filipinos` and `Exploratory Data Analysis on Own Loan Service In-App`
-  - `R`
+      -  which were both nominated for best papers
+  - `R` and `Quarto`
+      -  which I used as the team's visuals coder back when my team won `Best in Overall` and `Best in Visualisation` for `Macquarie University's ASA Datafest 2022`
   - `Python`
   - `SQL`
   - `LaTeX` for research papers
