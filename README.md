@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I'm Carina from the Philippines 🇵🇭 and currently based in Sydney 🇦🇺
 
+- 👩🏻‍🎓 I hold an undergraduate degree in 📈 Applied Economics from DLSU-Manila 🏹 and a graduate degree in ⚙️ Data Science from Macquarie University 🇦🇺
 - 🛠 Software I've used and currently using:
   - `STATA` for my undergraduate research on `Private vs Public Healthcare Preference for Filipinos` and `Exploratory Data Analysis on Own Loan Service In-App`
       -  which were both nominated for best papers
@@ -26,14 +27,14 @@ I'm Carina from the Philippines 🇵🇭 and currently based in Sydney 🇦🇺
   - `SQL`
   - `LaTeX` for research papers
   - `Project Libre` for `IT Project Management`
+  - `Power BI` for creating data dashboards
 - 🌱 I’m currently learning:
   - `UX Design` as a refresher and
   - `Auslan` / `ASL` on the side 🦻
-- 👯 I’m looking to collaborate on `Spotipy projects` `forecasting models` 
 - 👩🏻‍💻 Pronouns: she/her
 
 As a data scientist, I'm interested in specializing on machine learning models geared towards forecasting, image recognition, and recommender systems.
 
-When I'm not working, studying, and taking care of my family - I'm either playing Genshin or baking brownies 😋
+When I'm not working, - I'm either baking brownies or tending to my houseplants 😋
 
 🫶 Thanks for dropping by!
