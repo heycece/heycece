@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Carina, from the Philippines 🇵🇭 and currently based in Sydney 🇦🇺
+I'm Carina, from the Philippines 🇵🇭 and living in Sydney 🇦🇺
 
+- I'm a Data Consultant at Altis Consulting💡, currently working with Ticketek 🎫 
 - 👩🏻‍🎓 I hold an undergraduate degree in 📈 Applied Economics from DLSU-Manila 🏹 and a graduate degree in ⚙️ Data Science from Macquarie University 🇦🇺
 - 🛠 Software I've used and currently using:
   - `STATA` for my undergraduate research on `Private vs Public Healthcare Preference for Filipinos` and `Exploratory Data Analysis on Own Loan Service In-App`
@@ -25,8 +26,6 @@ I'm Carina, from the Philippines 🇵🇭 and currently based in Sydney 🇦🇺
       -  which I used as the team's visuals coder back when my team won `Best in Overall` and `Best in Visualisation` for `Macquarie University's ASA Datafest 2022`
   - `Python`
   - `SQL`
-  - `LaTeX` for research papers
-  - `Project Libre` for `IT Project Management`
   - `Power BI` for creating reports and dashboards
 - 🌱 I’m currently learning:
   - `Auslan` / `ASL` on the side 🦻
@@ -34,6 +33,6 @@ I'm Carina, from the Philippines 🇵🇭 and currently based in Sydney 🇦🇺
 
 I have previous experiences in data engineering and UX research, both of which I have overseen projects throughout their entire lifecycle.
 
-When I'm not working, - I'm either baking brownies or tending to my houseplants 😋
+When I'm not working, - I'm either going through my hobby cycles or tending to my houseplants 😋
 
 🫶 Thanks for dropping by!
